@@ -48,4 +48,4 @@ jobs:
             context: .
             dockerfile: Dockerfile
             push: true
-            tags: johanversa/javarepositorio:demo
+            tags: johanversa/javarepositorio
